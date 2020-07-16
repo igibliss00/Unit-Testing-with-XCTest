@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		496ED76624C0D088009CAF43 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 496ED76524C0D088009CAF43 /* README.md */; };
 		49D9429C24BFA0F9007F9890 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D9429B24BFA0F9007F9890 /* AppDelegate.swift */; };
 		49D9429E24BFA0F9007F9890 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D9429D24BFA0F9007F9890 /* SceneDelegate.swift */; };
 		49D942A024BFA0F9007F9890 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D9429F24BFA0F9007F9890 /* ViewController.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		496ED76524C0D088009CAF43 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		49D9429824BFA0F8007F9890 /* Project39.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project39.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		49D9429B24BFA0F9007F9890 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		49D9429D24BFA0F9007F9890 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 		49D9428F24BFA0F8007F9890 = {
 			isa = PBXGroup;
 			children = (
+				496ED76524C0D088009CAF43 /* README.md */,
 				49D9429A24BFA0F9007F9890 /* Project39 */,
 				49D942B124BFA0FB007F9890 /* Project39Tests */,
 				49D942BC24BFA0FB007F9890 /* Project39UITests */,
@@ -240,6 +243,7 @@
 			files = (
 				49D942CC24BFA11B007F9890 /* plays.txt in Resources */,
 				49D942A824BFA0FB007F9890 /* LaunchScreen.storyboard in Resources */,
+				496ED76624C0D088009CAF43 /* README.md in Resources */,
 				49D942A524BFA0FB007F9890 /* Assets.xcassets in Resources */,
 				49D942A324BFA0F9007F9890 /* Main.storyboard in Resources */,
 			);
